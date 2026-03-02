@@ -1,4 +1,4 @@
-package dsaCoding;
+package dsa.array;
 
 public class Greatest_Numer_In_Array {
 
