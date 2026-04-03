@@ -3,7 +3,7 @@ package misc;
 public class LeetCodeClassNameGenerator {
 
 	public static void main(String[] args) {
-		String input = "3683. Earliest Time to Finish One Task";
+		String input = "3838. Weighted Word Mapping";
 		String s1[] = input.split("\\.");
 		String s2 = s1[0];
 		String s3 = s1[1].trim();
