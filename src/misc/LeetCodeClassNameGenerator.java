@@ -3,7 +3,7 @@ package misc;
 public class LeetCodeClassNameGenerator {
 
 	public static void main(String[] args) {
-		String input = "49. Group Anagrams";
+		String input = "167. Two Sum II - Input Array Is Sorted";
 		String s1[] = input.split("\\.");
 		String s2 = s1[0];
 		String s3 = s1[1].trim();
