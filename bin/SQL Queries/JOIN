@@ -1,0 +1,17 @@
+#03-06-26
+Orders
+order_id	customer_id
+1	101
+2	102
+3	103
+Customers
+customer_id	name
+101	Rahul
+103	Priya
+
+Write a query to find:
+
+Orders whose customer information is missing.
+
+Select O.* from Orders O Left Join Customers C on O.customer_id = C.customer_id 
+where C.customer_id ==Null
