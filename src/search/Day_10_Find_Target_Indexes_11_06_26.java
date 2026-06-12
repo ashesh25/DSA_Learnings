@@ -1,4 +1,4 @@
-package hashMap;
+package search;;
 
 
 public class Day_10_Find_Target_Indexes_11_06_26 {
